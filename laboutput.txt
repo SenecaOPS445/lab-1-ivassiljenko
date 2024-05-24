@@ -21,7 +21,7 @@ AssertionError: '' != '#!/usr/bin/env python3\n'
  : your program does not have a shebang line(HINT: what should the first line contain)
 
 ----------------------------------------------------------------------
-Ran 3 tests in 0.026s
+Ran 3 tests in 0.023s
 
 FAILED (failures=1)
 OPS435 Lab Report - System Information for running ./CheckLab1.py
@@ -33,5 +33,5 @@ OPS435 Lab Report - System Information for running ./CheckLab1.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/ivan/lab1-demo
-    Start at: Fri May 24 14:03:46 2024
+    Start at: Fri May 24 14:08:53 2024
 =================================================================
